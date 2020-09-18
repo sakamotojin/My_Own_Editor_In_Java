@@ -1,2 +1,4 @@
 # My_Own_Editor_In_Java
 An Image Filter Having Basic Capabalities
+
+[![deepcode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6InNha2Ftb3RvamluIiwicmVwbzEiOiJNeV9Pd25fRWRpdG9yX0luX0phdmEiLCJpbmNsdWRlTGludCI6ZmFsc2UsImF1dGhvcklkIjoyMjc4MSwiaWF0IjoxNjAwNDI0NTg1fQ.1bqIgnvthLsSeRn0J3tdKJigYpgJVN9ZQMAoq__SbPo)](https://www.deepcode.ai/app/gh/sakamotojin/My_Own_Editor_In_Java/_/dashboard?utm_content=gh%2Fsakamotojin%2FMy_Own_Editor_In_Java)
